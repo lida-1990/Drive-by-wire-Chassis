@@ -1,1 +1,1 @@
-# Scout control algorithm
+# Scout-controller
