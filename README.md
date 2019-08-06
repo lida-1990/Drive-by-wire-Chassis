@@ -1,2 +1,1 @@
-# hello-world
-Begin
+# Scout control algorithm
